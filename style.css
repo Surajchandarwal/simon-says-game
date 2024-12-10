@@ -1,0 +1,40 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    text-align: center;
+    /* background-image: url("./animated-group-kids-playing-simon-says-school-field-combining-physical-movement-with-attentive-listening-solid-color-background-4k-ultra-hd_964851-174518.jpg"); */
+
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 1.5rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.green{
+    background-color: #63aac0;
+}
+.purple{
+    background-color: #819ff9;
+}
+.flash{
+    background-color: #fff;
+}
+.userflash{
+    background-color: whitesmoke;
+}
